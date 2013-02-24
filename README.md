@@ -1,4 +1,4 @@
 android_vendor_pac
 ==================
 
-PAC-man Vendor repository
+PAC in Black Vendor repository
