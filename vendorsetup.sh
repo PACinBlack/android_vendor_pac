@@ -10,6 +10,7 @@ add_lunch_combo pac_haida-userdebug
 add_lunch_combo pac_i9100-userdebug
 add_lunch_combo pac_i9100g-userdebug
 add_lunch_combo pac_d710-userdebug
+add_lunch_combo pac_p1-userdebug
 # Nexus Devices
 add_lunch_combo pac_mako-userdebug
 # HTC Rezound
