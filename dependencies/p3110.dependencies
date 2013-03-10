@@ -1,8 +1,8 @@
 [
   {
     "account":    "CyanogenMod",
-    "repository": "android_device_samsung_p5100",
-    "target_path": "device/samsung/p5100",
+    "repository": "android_device_samsung_p3110",
+    "target_path": "device/samsung/p3110",
     "revision":    "cm-10.1"
   },
   {
