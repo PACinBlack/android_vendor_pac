@@ -23,6 +23,10 @@ SUPERUSER_EMBEDDED := true
 # PAC Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/common
 
+# CM Packages
+PRODUCT_PACKAGES += \
+    CMFileManager
+
 ### AOKP ###
 # AOKP Packages
 PRODUCT_PACKAGES += \
